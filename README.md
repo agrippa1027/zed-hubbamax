@@ -26,14 +26,10 @@ This port carries over a couple of personal adjustments from my Neovim config:
 3. Select this directory.
 4. Open the theme picker (`cmd-k cmd-t`) and choose **Hubbamax**.
 
-To activate it in `settings.json`:
+To activate it in `settings.json` (Hubbamax is a dark-only theme):
 
 ```json
-"theme": {
-  "mode": "dark",
-  "light": "Hubbamax",
-  "dark": "Hubbamax"
-}
+"theme": "Hubbamax"
 ```
 
 ## Credits
